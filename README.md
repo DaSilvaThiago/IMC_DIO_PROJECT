@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Learned the basics foundations of the language programing dart, improved my habilities and learned a lot since a variables type to object orientation, exceptions and test in dart.
